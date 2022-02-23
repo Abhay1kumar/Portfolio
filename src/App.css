@@ -35,9 +35,7 @@ body{
 .checkBtn{
   display:none;
 }
-.nav .logo{
-  font-size: 2em;
-}
+
 .nav ol{
   list-style: none;
 }

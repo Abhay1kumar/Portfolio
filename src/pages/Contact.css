@@ -1,0 +1,15 @@
+
+.main{
+    width: 85%;
+    height: 650px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .home{
+    margin-top: 20px;
+    color:red;
+    font-size:2em;
+    color:white;
+  }
